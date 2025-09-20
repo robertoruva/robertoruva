@@ -18,7 +18,7 @@ Actualmente estoy trabajando en **Combinamejor**, una plataforma que ayuda a los
 Está diseñada con arquitectura desacoplada (backend en Laravel + frontend en React), siguiendo principios **SOLID**, **DDD** y buenas prácticas de ingeniería de software.  
 
 📌 **Roadmap:** [🚀 Combinamejor – Roadmap](https://github.com/users/robertoruva/projects/1)  
-📌 **Organización:** [github.com/combinamejor](https://github.com/combinamejor)
+📌 **Organización:** [github.com/combinamejor](https://github.com/combinamejor/.github)
 
 ---
 
