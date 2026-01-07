@@ -5,7 +5,7 @@ Actualmente estoy trabajando en **stylematch**, una plataforma que ayuda a los u
 
 ---
 
-## 🚀 Proyecto destacado: [stylematch](https://github.com/stylematch/.github)
+## 🚀 Proyecto destacado: Stylematch
 
 ![Status](https://img.shields.io/badge/Status-En%20desarrollo-orange)
 ![PHP](https://img.shields.io/badge/PHP-8.2-blue)
