@@ -1,40 +1,89 @@
-# 👨‍💻 Roberto Ruiz – Fullstack Developer (PHP · Symfony · React · AWS)
+# 👋 Roberto Ruiz
 
-Soy desarrollador con experiencia en **PHP (Symfony)**, **React**, **Docker** y despliegues en **AWS**.  
-Actualmente estoy trabajando en **stylematch**, una plataforma que ayuda a los usuarios a combinar prendas y accesorios de forma inteligente y visual.
+### AI & Platform Engineer | Backend Architecture | Multi-Agent Systems | Conversational Automation
+
+I design and build software platforms where AI agents, business systems and real-world workflows work together.
+
+My background is rooted in backend development with PHP and Symfony, but during the last years my focus has evolved towards platform engineering, distributed systems, cloud infrastructure, AI-powered products and multi-agent architectures.
+
+Currently I am building:
+
+## 🚀 Alpha
+
+A multi-tenant conversational automation platform that connects AI agents with real business operations across channels such as WhatsApp, Telegram, Email and WebChat.
+
+### Key areas
+- Multi-agent systems
+- MCP tools and tool contracts
+- Event-driven architecture
+- Workflow orchestration
+- Distributed systems
+- Observability and platform design
+
+## 👔 PlayMyLook
+
+An AI-powered fashion platform that helps users manage their digital wardrobe and receive personalized outfit recommendations.
+
+### Key areas
+- Recommendation systems
+- RAG and AI integrations
+- Semantic search
+- Product architecture
+- Mobile and backend platforms
+
+## 🤖 Hermes Lab
+
+A personal research repository focused on autonomous agents, orchestration patterns, AI workflows, tool ecosystems, knowledge systems and practical experimentation around modern agent architectures.
 
 ---
 
-## 🚀 Proyecto destacado: Stylematch
+## 🛠 Core Technologies
 
-![Status](https://img.shields.io/badge/Status-En%20desarrollo-orange)
-![PHP](https://img.shields.io/badge/PHP-8.2-blue)
-![Symfony](https://img.shields.io/badge/Symfony-7-red)
-![React](https://img.shields.io/badge/React-18-61dafb)
-![Docker](https://img.shields.io/badge/Docker-ready-0db7ed)
-![AWS](https://img.shields.io/badge/AWS-preparing-232f3e)
+### Backend & Architecture
+- PHP 8.2
+- Symfony
+- Node.js
+- TypeScript
+- REST APIs
+- DDD
+- CQRS
+- Event-Driven Architecture
 
-**stylematch** es una plataforma que digitaliza tu armario y genera **outfits inteligentes y visuales**.  
-Está diseñada con arquitectura desacoplada (backend en Symfony + frontend en React), siguiendo principios **SOLID**, **DDD** y buenas prácticas de ingeniería de software.  
+### AI & Agents
+- OpenAI
+- Gemini
+- MCP
+- Tool Calling
+- RAG
+- Embeddings
+- Multi-Agent Systems
 
-📌 **Roadmap:** [🚀 stylematch – Roadmap](https://github.com/robertoruva/stylematch-symfony-demo)  
+### Infrastructure & Platform
+- Docker
+- AWS
+- Redis
+- PostgreSQL
+- Kafka
+- Temporal
+- MinIO
+- GitHub Actions
+- Jenkins
+
+### Frontend
+- React
+- Vite
+- TailwindCSS
 
 ---
 
-## 🛠️ Tecnologías principales
+## 🌍 Connect
 
-- **Backend:** PHP 8.2 · Symfony 7 · MySQL · Redis · PHPUnit  
-- **Frontend:** React 18 · Vite · TailwindCSS  
-- **Infraestructura:** Docker · Jenkins · AWS (ECS, ECR, S3, RDS)  
-- **Arquitectura:** DDD · CQRS · SOLID  
+💼 LinkedIn: https://www.linkedin.com/in/robertoruva
 
----
-
-## 🌍 Conecta conmigo
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/robertoruva)  
-- 📧 Contacto: *[roberruizvazquez@gmail.com]*  
+📧 Contact: roberruizvazquez@gmail.com
 
 ---
 
-✨ *Gracias por visitar mi perfil. Aquí encontrarás mi trabajo más reciente y mis proyectos en desarrollo.*
+> Building systems, not just applications.
+>
+> Learning is important. Sharing what you learn is what creates impact.
